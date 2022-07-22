@@ -412,7 +412,7 @@ class GridSystemClient {
                         row * (this.cellSize + this.padding) + 18);
 
                     if (plyrDet.playerId === "💰") {
-                    this.outlineContext.font = "18px Times New Roman";
+                    this.outlineContext.font = "17px Times New Roman";
                     this.outlineContext.fillStyle = "black";
                     this.outlineContext.fillText(plyrDet.playerId, col * (this.cellSize + this.padding) + 2,
                         row * (this.cellSize + this.padding) + 21);
