@@ -131,7 +131,7 @@ class GridSystem {
         this.p2 = { x: 3, y: 1, lable: 3, id: this.extraArr[1], steps: this.startingSteps, area: "mainArea", wallet: 0, total: 0 };
         this.p3 = { x: 2, y: 1, lable: 4, id: this.extraArr[2], steps: this.startingSteps, area: "mainArea", wallet: 0, total: 0 };
         this.p4 = { x: 3, y: 3, lable: 5, id: this.extraArr[3], steps: this.startingSteps, area: "mainArea", wallet: 0, total: 0 };
-        this.p5 = { x: 3, y: 2, lable: 6, id: this.extraArr[4], steps: this.startingSteps, area: "mainArea", wallet: 0, total: 0 };
+        this.p5 = { x: 3, y: 17, lable: 6, id: this.extraArr[4], steps: this.startingSteps, area: "mainArea", wallet: 0, total: 0 };
 
         this.p6 = { x: 3, y: 19, lable: 7, id: this.extraArr[5], steps: this.startingSteps, area: "mainArea", wallet: 0, total: 0 };
         this.p7 = { x: 3, y: 18, lable: 8, id: this.extraArr[6], steps: this.startingSteps, area: "mainArea", wallet: 0, total: 0 };
